@@ -1,6 +1,5 @@
 {
     "workbench.view.alwaysShowHeaderActions": true,
-    "editor.renderIndentGuides": false,
     "files.exclude": {
         "**/.git": true,
         "**/.svn": true,
@@ -16,5 +15,6 @@
         "**/*_adt.pvs": false,
         "**/*.log": true,
         "**/.vscode": true
-    }
+    },
+    "editor.guides.indentation": false
 }
